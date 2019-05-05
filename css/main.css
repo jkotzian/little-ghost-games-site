@@ -1,10 +1,8 @@
 body {
-    margin: 60px auto;
-    width: 70%;
-    text-align: center;
-    background: white;
+    background: url(../images/background.png);
     font-family: 'Bree-Serif', 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 2em;
+    background-size: cover;
 }
 
 
@@ -12,4 +10,24 @@ body {
 h1 {
     font-size: 10em;
 
+}
+
+
+
+.container-fluid {
+    color: white;
+}
+
+.background {
+    background-image: url(../images/background.png)
+}
+
+.LGGLogo {
+    width: 100%;
+    height: auto;
+    padding-left: 10px;
+    padding-top: 10px;
+    text-align: left;
+    vertical-align: text-bottom;
+    overflow: hidden;
 }
