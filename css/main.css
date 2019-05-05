@@ -1,8 +1,6 @@
 body {
-    background: url(../images/background.png);
     font-family: 'Bree-Serif', 'Helvetica', 'Arial', 'Sans-Serif';
     font-size: 2em;
-    background-size: cover;
 }
 
 
@@ -27,7 +25,40 @@ h1 {
     height: auto;
     padding-left: 10px;
     padding-top: 10px;
-    text-align: left;
+    text-align: center;
     vertical-align: text-bottom;
     overflow: hidden;
+}
+
+.Subtitle {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 2vw;
+    color: white;
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+    text-align: center;
+}
+
+.Video {
+    text-align: center;
+}
+
+.MartianMixerLogo {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.navbar-expand-lg {
+
+}
+
+.MartianMixer {
+    background: url(../images/background.png);
+    background-size: cover;
+}
+
+.LittleGhostGames {
+    background-color: #4F4C4C;
 }
