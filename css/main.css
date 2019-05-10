@@ -97,12 +97,14 @@ h1 {
 }
 
 .GameInfoHeading {
-        font-size: 3vw;
+        font-size: 2.5vw;
     color: #FFC639;
 /*    color: #FFC639;*/
     font-family: 'Viga', sans-serif;
     text-align: center;
     display: block;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .GameInfoItem {
