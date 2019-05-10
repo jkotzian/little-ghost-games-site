@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Martian Mixer</title>
+  <!--<release-date>Fall 2019</release-date> -->
+  <website></website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>iOS</name>
+      <link></link>
+    </platform>
+    <platform>
+      <name>Android</name>
+      <link></link>
+    </platform>
+  </platforms>
+
+<!--   <prices>
+    <price>
+      <currency></currency>
+      <value></value>
+    </price>
+  </prices> -->
+
+  <description>Martian Mixer is a 2D puzzle game about mixing colorful little aliens to help them mingle at out-of-this-world parties. It plays like the opposite of a Match 3 game, and it has a subtle, pro-diversity message.</description>
+
+  <!-- Choose between a single block: -->
+  <history>Little Ghost Games is making fresh experiences. While most mobile games are variations on existing games and genres, LGG caters to players who are looking for something completely different. Martian Mixer is the company's first game, and it was created from the start to be a game-for-change with a pro-diversity message baked into the mechanics. We believe that gaming is a powerul medium that shapes our culture, and we want to ensure that our games are contributing to society in a positive way.
+</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <features>
+    <feature>Unique and challenging puzzle gameplay</feature>
+    <feature>Different party worlds to explore - Space, Spooky, Winter and Beach</feature>
+    <feature>Charming premise and style</feature>
+    <feature>Customize the look of your Martians to make sure they're ready to party</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Teaser Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        cKXTYT8MzTw
+      </youtube>
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): 
+  <widgets>
+    <steam>
+      Steam ID
+      e.g.424242
+    </steam>
+    <humble>
+      Humble Bundle product/id
+      e.g. mysupergame/42AAbB42dC
+    </humble>
+    <itch>
+      itch.io ID
+      <e.g. 42424
+    </itch>
+    <gamejolt>
+      Game Jolt package ID
+      e.g. 4AbCd2Ef
+    </gamejolt>
+    <bandcamp>
+      Bandcamp ID
+      e.g. 4242424242
+    </bandcamp>
+  </widgets>
+-->
+
+   <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes> 
+
+<additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>James Kotzian</person>
+      <role>Creator, Designer, Programmer</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+    <credit>
+      <person>Katarina Jelic</person>
+      <role>Artist</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>James Kotzian</name>
+
+      <!-- Pick one: -->
+      <mail>james@littleghostgames.com</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</product>

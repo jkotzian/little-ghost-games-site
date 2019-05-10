@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<company>
+  <title>Little Ghost Games</title>
+  <based-in>Champaign, IL USA</based-in>
+  <founding-date>April 2019</founding-date>
+  <website>www.littleghostgames.com</website>
+  <press-contact>
+      james@littleghostgames.com
+  </press-contact>
+
+  <!-- Google analytics ID: -->
+  <analytics></analytics>
+
+  <phone></phone>
+  <address>
+    <line>
+      <!-- Street -->
+    </line>
+    <line>
+      Champaign, IL
+    </line>
+    <line>
+      United States
+    </line>
+  </address>
+
+  <socials>
+    <social>
+      <name>Twitter</name>
+      <link>
+        https://twitter.com/LilGhostGames
+      </link>
+    </social>
+  </socials>
+
+  <description></description>
+
+  <!-- Choose between a single block: -->
+  <history>blah blah blah</history>
+
+  <!-- Or multiple blocks: -->
+  <!--
+  <histories>
+    <history>
+      <header></header>
+      <text></text>
+    </history>
+  </histories>
+  -->
+
+  <trailers>
+    <trailer>
+      <name></name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+      </youtube>
+      <vimeo>
+        <!-- Video ID only, not the full URL -->
+      </vimeo>
+    </trailer>
+  </trailers>
+
+  <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals>
+
+  <credits>
+    <credit>
+      <person></person>
+      <role></role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>James Kotzian</name>
+      <mail>james@littleghostgames.com</mail>
+      <link></link>
+    </contact>
+  </contacts>
+</company>

@@ -1,8 +1,3 @@
-body {
-    font-family: 'Bree-Serif', 'Helvetica', 'Arial', 'Sans-Serif';
-    font-size: 2em;
-}
-
 
 
 h1 {
@@ -26,7 +21,7 @@ h1 {
     padding-left: 10px;
     padding-top: 10px;
     text-align: center;
-    vertical-align: text-bottom;
+    vertical-align: text-bottom 
     overflow: hidden;
 }
 
@@ -46,7 +41,7 @@ h1 {
 }
 
 .MartianMixerLogo {
-    padding-top: 30px;
+    padding-top: 0px;
     text-align: center;
 }
 
@@ -55,10 +50,84 @@ h1 {
 }
 
 .MartianMixer {
-    background: url(../images/background.png);
-    background-size: cover;
+    background-color: black;
+    text-align: center;
 }
 
 .LittleGhostGames {
     background-color: #4F4C4C;
+}
+
+.Footer {
+    height: 100%;
+    display: flex;
+    flex: 1 1 auto;
+}
+
+.item-contents {
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    font-size: 2vw;
+    color: white;
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+    text-align: center;
+}
+
+.GameInfo {
+    width: 40%;
+/*    background-color: aqua;*/
+    display: inline-block;
+    float: left;
+    margin-left: 15%;
+    margin-top: 30px;
+
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+    text-align: center;
+}
+
+.MartianImage {
+    width: 60%;
+    vertical-align: middle;
+    margin-left: 30px;
+    margin-top: 50px;
+    float: left;
+}
+
+.GameInfoHeading {
+        font-size: 3vw;
+    color: #FFC639;
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+    text-align: center;
+    display: block;
+}
+
+.GameInfoItem {
+    color: aliceblue;
+    width: 100%;
+}
+
+.EmailSignup {
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+.Bullshit {
+    width: 100%;
+    background-color: yellow;
+}
+
+.Email {
+    font-size: 2vw;
+    color: #FFC639;
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+}
+
+#EmbedSignup {
+    background-color: black;
 }
