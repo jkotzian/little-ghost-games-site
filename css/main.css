@@ -36,6 +36,17 @@ h1 {
     text-align: center;
 }
 
+a:link {
+  color: white;
+    font-family: 'Viga', sans-serif;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+    font-family: 'Viga', sans-serif;
+}
+
 .PuzzleText {
     font-size: 2vw;
     color: white;
