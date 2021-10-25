@@ -36,6 +36,14 @@ h1 {
     text-align: center;
 }
 
+.PuzzleText {
+    font-size: 2vw;
+    color: white;
+/*    color: #FFC639;*/
+    font-family: 'Viga', sans-serif;
+    text-align: left;
+}
+
 .Video {
     text-align: center;
 }
@@ -56,6 +64,10 @@ h1 {
 
 .LittleGhostGames {
     background-color: #4F4C4C;
+}
+
+.PuzzlePage {
+    background-color: black;
 }
 
 .Footer {
